@@ -9,6 +9,7 @@ This script is all made possible by NoFear and Badcase
 # Instructions
 1) Rename file from .txt to .lua
 2) Use password : VIP to execute in Game Guardian
+3) Execute the script at splash screen
 
 # Functionality
 Works for latest version of hcr2 without risk of getting banned. Can be used on both new and existing accounts.
