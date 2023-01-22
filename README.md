@@ -8,7 +8,7 @@ This script is all made possible by NoFear and Badcase
 * improved encryption
 
 # Instructions
-Execute the script at splash screen
+Execute the script at splash screen and use password : VIP
 
 # Functionality
 Works for latest version of hcr2 without risk of getting banned. Can be used on both new and existing accounts.
