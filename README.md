@@ -22,7 +22,7 @@ Works for latest version of hcr2 without risk of getting banned. Can be used on 
 ![image](https://user-images.githubusercontent.com/41923731/213916956-9411af5b-1cff-46c8-9f8e-751b55d14eed.png)
 
 # Download
-[HCR2_VIP_by_NoFear_and_BadCase_v1.0.6.txt](https://github.com/lolxxxx/Hcr2-VIP-script/files/10474480/HCR2_VIP_by_NoFear_and_BadCase_v1.0.6.txt)
+* [HCR2_VIP_by_NoFear_and_BadCase_v1.0.6.txt](https://github.com/lolxxxx/Hcr2-VIP-script/files/10474480/HCR2_VIP_by_NoFear_and_BadCase_v1.0.6.txt)
 
 # Contacts
 For any further info or services contact us here
