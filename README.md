@@ -5,7 +5,7 @@ This script is all made possible by NoFear and Badcase
 # Patch notes
 [v1.0.6]
 * unlimited VIP bug fix
-* better encryption
+* improved encryption
 
 # Instructions
 1) Rename file from .txt to .lua
