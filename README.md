@@ -3,9 +3,11 @@ A script for gg that can add VIP for hill climb racing 2.
 This script is all made possible by NoFear and Badcase
 
 # Patch notes
-[v1.0.6]
-* unlimited VIP bug fix
-* improved encryption
+[v1.0.7]
+* ban issue fixed (for x64)
+* online script
+* process detection
+* game version detection
 
 # Instructions
 Execute the script at splash screen and use password : VIP
